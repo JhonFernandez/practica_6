@@ -11,10 +11,17 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: com.sparkjava:spark-core:2.6.0" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-simple:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: com.sparkjava:spark-template-freemarker:2.5.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.sparkjava:spark-template-thymeleaf:2.5.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.freemarker:freemarker:2.3.26-incubating" level="project" />
+    <orderEntry type="library" name="Gradle: org.thymeleaf:thymeleaf:3.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: com.sparkjava:spark-debug-tools:0.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.6.2" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-server:9.4.4.v20170414" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-webapp:9.4.4.v20170414" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-server:9.4.4.v20170414" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-servlet:9.4.4.v20170414" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.21" level="project" />
     <orderEntry type="library" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:9.4.4.v20170414" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-io:9.4.4.v20170414" level="project" />
@@ -26,6 +33,9 @@
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:9.4.4.v20170414" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-security:9.4.4.v20170414" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-client:9.4.4.v20170414" level="project" />
-    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: ognl:ognl:3.1.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.attoparser:attoparser:2.0.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.unbescape:unbescape:1.1.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.javassist:javassist:3.20.0-GA" level="project" />
   </component>
 </module>
