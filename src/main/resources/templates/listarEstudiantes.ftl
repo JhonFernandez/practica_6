@@ -43,7 +43,7 @@
                 <#list listaEstudiante as estudiante>
                     <tr>
                         <form class="" action="/ver" method="post">
-                            <td><name="id" type="hidden" value="${estudiante.id}"/>${estudiante.id}</td>
+                            <td><input name="id" type="hidden" value="${estudiante.id}"/>${estudiante.id}</td>
                             <td><input name="nombre" type="hidden" value="${estudiante.nombre}"/>${estudiante.nombre}</td>
                             <td><input name="apellido" type="hidden" value="${estudiante.apellido}"/>${estudiante.apellido}</td>
                             <td><input name="telefono" type="hidden" value="${estudiante.telefono}"/>${estudiante.telefono}</td>
